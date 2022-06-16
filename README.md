@@ -3,7 +3,7 @@
 - Live Site URL:(https://munnakumar27.github.io/Quotes-generator-app/) 
 
 ## Overview
-
+- In this project, I have build a random quote generator using API that displays a random quote to the user every time they press a button.
 
 ### Screenshot
 
