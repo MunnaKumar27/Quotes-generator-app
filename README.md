@@ -1,29 +1,15 @@
 # Quotes generator app
-
-
-## Table of contents
-
-
+### Links
+- Live Site URL:(https://munnakumar27.github.io/Quotes-generator-app/) 
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- Display a random Advice on a Click
-- Get random Advice from an API
-- Using SVG in design
 
 ### Screenshot
 
 ![Mobile](./ScreenShots/mobile.png)
-![Desktop](./ScreenShots/desktop.png)
+![Desktop](https://github.com/MunnaKumar27/Quotes-generator-app/blob/main/ScreenShots/destop.png?raw=true)
 
-### Links
-
-- Solution URL: 
-- Live Site URL: 
 
 ### Built with
 
@@ -35,6 +21,3 @@ Users should be able to:
 - Javascrip
 - API Call using Fetch
 
-### Motive
-
-Brushing up the CSS skills and having fun!!
